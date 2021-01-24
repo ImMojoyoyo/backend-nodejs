@@ -35,3 +35,11 @@ Contenido del archivo
   ** npm start **
 
 ````
+
+**Para guardar los archivos**
+````
+  CREAR en el directorio principal una carpeta:
+  
+  upload > articles
+
+````
